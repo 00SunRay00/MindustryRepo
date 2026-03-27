@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives-filedialogs",
+    "version": "v156.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-filedialogs-v156.2.jar",
+          "url": "natives-filedialogs-v156.2.jar",
+          "size": 97259,
+          "sha512": "82a480014fbcf5d11da403ce940ce22322c0a5405474edb8c2a7780195823a06822c158320f480a50e32e0ee5f184c000095860eddf0a820a67050f58a850f4b",
+          "sha256": "36e781a479c44b2a23b64cc20d546f07923f06ea58d7fb4625452637ca0eadbc",
+          "sha1": "91b3ffd6184ad67793f467b971fa5fa952ecf98e",
+          "md5": "b95290e56a3aeae38da38e2cbcf0b2f6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-filedialogs-v156.2.jar",
+          "url": "natives-filedialogs-v156.2.jar",
+          "size": 97259,
+          "sha512": "82a480014fbcf5d11da403ce940ce22322c0a5405474edb8c2a7780195823a06822c158320f480a50e32e0ee5f184c000095860eddf0a820a67050f58a850f4b",
+          "sha256": "36e781a479c44b2a23b64cc20d546f07923f06ea58d7fb4625452637ca0eadbc",
+          "sha1": "91b3ffd6184ad67793f467b971fa5fa952ecf98e",
+          "md5": "b95290e56a3aeae38da38e2cbcf0b2f6"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-filedialogs-v156.2-sources.jar",
+          "url": "natives-filedialogs-v156.2-sources.jar",
+          "size": 97259,
+          "sha512": "13bdec3fba45ec8a33620d1b7821c85e8da2328bcab73a82e435652e2aa082338203d0799b28454f227fc70d0b231527ad620ac77bbd3db63482f8ac1addf5b6",
+          "sha256": "618ad5734a963ef533b03dc74ad9f8929e383d47b3d77bf681da97508598dfc2",
+          "sha1": "f2b99a0bce0e2458c62027f5dd395682e01994f9",
+          "md5": "6acbdac521316f59247cb5cf1a4c98b5"
+        }
+      ]
+    }
+  ]
+}

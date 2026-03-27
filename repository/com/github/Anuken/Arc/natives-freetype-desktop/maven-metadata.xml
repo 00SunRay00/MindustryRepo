@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>natives-freetype-desktop</artifactId>
     <versioning>
-        <latest>v156.1</latest>
-        <release>v156.1</release>
+        <latest>v156.2</latest>
+        <release>v156.2</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -29,6 +29,7 @@
             <version>v155.4</version>
             <version>v156</version>
             <version>v156.1</version>
+            <version>v156.2</version>
         </versions>
         <lastUpdated>20230810012821</lastUpdated>
     </versioning>
