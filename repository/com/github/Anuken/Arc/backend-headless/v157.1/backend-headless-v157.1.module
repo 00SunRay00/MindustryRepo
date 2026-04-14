@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "backend-headless",
+    "version": "v157.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "backend-headless-v157.1.jar",
+          "url": "backend-headless-v157.1.jar",
+          "size": 4079,
+          "sha512": "b5f5702c73e51921e60078cad8882c6fe9ba60b326cb9ed339e7d64d8fb546bc93aa338c7d2f132afd277389c7eb353fe7afa9fba11f3d1a085dc7dd029e2cd9",
+          "sha256": "f1f5d8037b28c1867d3c7e8ed76e91df5591342076b22643d49076129a9de7e8",
+          "sha1": "4e2442cefc19a037014067c4417b51ea9a84bfc0",
+          "md5": "028f1c319460b906c2638aa457ee44ea"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-headless-v157.1.jar",
+          "url": "backend-headless-v157.1.jar",
+          "size": 4079,
+          "sha512": "b5f5702c73e51921e60078cad8882c6fe9ba60b326cb9ed339e7d64d8fb546bc93aa338c7d2f132afd277389c7eb353fe7afa9fba11f3d1a085dc7dd029e2cd9",
+          "sha256": "f1f5d8037b28c1867d3c7e8ed76e91df5591342076b22643d49076129a9de7e8",
+          "sha1": "4e2442cefc19a037014067c4417b51ea9a84bfc0",
+          "md5": "028f1c319460b906c2638aa457ee44ea"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-headless-v157.1-sources.jar",
+          "url": "backend-headless-v157.1-sources.jar",
+          "size": 1807,
+          "sha512": "b8d5bb6e8ebe90f321d1dff7a4d31f4f6eadb9181f6784e83713fdb0d6a42929e2a8e6d37454e900828b2da5fdb34e53c09785a72648d3f281a0a5ab97e7c2b7",
+          "sha256": "ed169c4e974f3c30bf7bca014ac79c80daa35c5e3c315b97ff4497c5532e1551",
+          "sha1": "151fbbe995e69116565e390ee9fe78d5256a35fa",
+          "md5": "6159274670787e3aab0bd76c6f8857f8"
+        }
+      ]
+    }
+  ]
+}
