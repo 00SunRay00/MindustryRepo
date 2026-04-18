@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives-freetype-android",
+    "version": "v157.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-freetype-android-v157.3.jar",
+          "url": "natives-freetype-android-v157.3.jar",
+          "size": 991652,
+          "sha512": "b3d1aa8318a60719729ec02af29cc9ebcb00cda51892cca348b0bc5bef1db8eb8c13f76534ae4a9ae2df8834d1a795832c62d961681d739f8e6c274129cc4992",
+          "sha256": "da32fa53997baa650f5360d7ce267ef538146d246a14e51e3212778de4286159",
+          "sha1": "1b52e463b0cbc7aa41ab4d5b6d8e485db93a93de",
+          "md5": "152e860530e8152e3acdc0e9022d06c1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-freetype-android-v157.3.jar",
+          "url": "natives-freetype-android-v157.3.jar",
+          "size": 991652,
+          "sha512": "b3d1aa8318a60719729ec02af29cc9ebcb00cda51892cca348b0bc5bef1db8eb8c13f76534ae4a9ae2df8834d1a795832c62d961681d739f8e6c274129cc4992",
+          "sha256": "da32fa53997baa650f5360d7ce267ef538146d246a14e51e3212778de4286159",
+          "sha1": "1b52e463b0cbc7aa41ab4d5b6d8e485db93a93de",
+          "md5": "152e860530e8152e3acdc0e9022d06c1"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-freetype-android-v157.3-sources.jar",
+          "url": "natives-freetype-android-v157.3-sources.jar",
+          "size": 991652,
+          "sha512": "d1d3a909597f5624e12dda8dd59647bdacf430a87f27c14e55e5419eacb9541872491f7644c16dab006008f4f8a1f420f109fe9ccecec743937d1be91de8e19a",
+          "sha256": "d69989e45262a75e3e00158a424090044b54d9cdb55d90111c957ba3f0f966f0",
+          "sha1": "7a9ea6bcaf714feec071295a96931b02f0a5a441",
+          "md5": "da5d00f6ddf46b6fb21a8f3752fc87b4"
+        }
+      ]
+    }
+  ]
+}
