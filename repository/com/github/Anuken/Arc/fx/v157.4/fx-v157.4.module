@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "fx",
+    "version": "v157.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "fx-v157.4.jar",
+          "url": "fx-v157.4.jar",
+          "size": 62586,
+          "sha512": "d63019e72df87d83db17ba6a1287948e92dfe4a1d4ccc0e525f573f9c8ab81b908eb4438cfa77d14fc775b3eb0c6c4ff74fd89b3d03d0cbbd241063a5b47fd40",
+          "sha256": "88871f6990675b902504cf5a410fd9bb9a7783a9b943fee4d0e1a0a28b43d8a2",
+          "sha1": "b7906ce02a4bcf77a55dd18b79162556d2c0722e",
+          "md5": "789e2b370a998cee9e9a9ac698607260"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "fx-v157.4.jar",
+          "url": "fx-v157.4.jar",
+          "size": 62586,
+          "sha512": "d63019e72df87d83db17ba6a1287948e92dfe4a1d4ccc0e525f573f9c8ab81b908eb4438cfa77d14fc775b3eb0c6c4ff74fd89b3d03d0cbbd241063a5b47fd40",
+          "sha256": "88871f6990675b902504cf5a410fd9bb9a7783a9b943fee4d0e1a0a28b43d8a2",
+          "sha1": "b7906ce02a4bcf77a55dd18b79162556d2c0722e",
+          "md5": "789e2b370a998cee9e9a9ac698607260"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "fx-v157.4-sources.jar",
+          "url": "fx-v157.4-sources.jar",
+          "size": 40350,
+          "sha512": "7805b6f4fad1f67e1ae6b09f6f91ef95892e4070c02dc6a499ef12ef0dfe92a845f91e4d9bf16b65eff4c77435193313b8207f9726a1354715e7ed519f8bb639",
+          "sha256": "27244f9bf50852b5ad8e63a242c99eb16df5ca05edc3540279f905c4ce08d530",
+          "sha1": "bed6435bc1622af0cfc33a9348c58d46e1b83278",
+          "md5": "8cf79554804793fc3f678c1b7bf513cb"
+        }
+      ]
+    }
+  ]
+}
