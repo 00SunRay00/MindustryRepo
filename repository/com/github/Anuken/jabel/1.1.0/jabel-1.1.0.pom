@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.xpdustry</groupId>
+  <artifactId>jabel</artifactId>
+  <version>1.1.0</version>
+  <name>jabel</name>
+  <description>Use modern Java 9-25 syntax when targeting Java 8</description>
+  <url>https://github.com/xpdustry/jabel</url>
+  <organization>
+    <name>Xpdustry</name>
+    <url>https://www.xpdustry.com</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>https://opensource.org/licenses/Apache-2.0</url>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:git:https://github.com/xpdustry/jabel.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/xpdustry/jabel.git</developerConnection>
+    <url>https://github.com/xpdustry/jabel</url>
+  </scm>
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/xpdustry/jabel/issues</url>
+  </issueManagement>
+  <ciManagement>
+    <system>GitHub Actions</system>
+    <url>https://github.com/xpdustry/jabel/actions</url>
+  </ciManagement>
+</project>
