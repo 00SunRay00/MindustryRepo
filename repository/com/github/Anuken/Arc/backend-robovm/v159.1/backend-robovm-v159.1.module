@@ -1,0 +1,126 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "backend-robovm",
+    "version": "v159.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.mobidevelop.robovm",
+          "module": "robovm-rt",
+          "version": {
+            "requires": "2.3.24"
+          }
+        },
+        {
+          "group": "com.mobidevelop.robovm",
+          "module": "robovm-objc",
+          "version": {
+            "requires": "2.3.24"
+          }
+        },
+        {
+          "group": "com.mobidevelop.robovm",
+          "module": "robovm-cocoatouch",
+          "version": {
+            "requires": "2.3.24"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "backend-robovm-v159.1.jar",
+          "url": "backend-robovm-v159.1.jar",
+          "size": 80635,
+          "sha512": "4f6f622f31675f1fbec779ba6ab5c0a327598011d4bb26a84bdfb982073cbf9a3fcd87863bdf303ccc68da0c45e38807559b99959ce9f9789e7523285b9c4940",
+          "sha256": "4a998e011a646d5d9d3955778de106bc8480bd5faa36eda5af21cdc86201bfc0",
+          "sha1": "237526f579fd5d51ba44ce54d49306738c07096a",
+          "md5": "c32270bbe3799decbdcb1f08532b843e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.mobidevelop.robovm",
+          "module": "robovm-rt",
+          "version": {
+            "requires": "2.3.24"
+          }
+        },
+        {
+          "group": "com.mobidevelop.robovm",
+          "module": "robovm-objc",
+          "version": {
+            "requires": "2.3.24"
+          }
+        },
+        {
+          "group": "com.mobidevelop.robovm",
+          "module": "robovm-cocoatouch",
+          "version": {
+            "requires": "2.3.24"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "backend-robovm-v159.1.jar",
+          "url": "backend-robovm-v159.1.jar",
+          "size": 80635,
+          "sha512": "4f6f622f31675f1fbec779ba6ab5c0a327598011d4bb26a84bdfb982073cbf9a3fcd87863bdf303ccc68da0c45e38807559b99959ce9f9789e7523285b9c4940",
+          "sha256": "4a998e011a646d5d9d3955778de106bc8480bd5faa36eda5af21cdc86201bfc0",
+          "sha1": "237526f579fd5d51ba44ce54d49306738c07096a",
+          "md5": "c32270bbe3799decbdcb1f08532b843e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-robovm-v159.1-sources.jar",
+          "url": "backend-robovm-v159.1-sources.jar",
+          "size": 45828,
+          "sha512": "a0fd19587e75284b00cce07a819e62b7ad5c95bb11bf36bcc554691f5689be465c2ce80c39eef0275f723ae0aa2d49f1b09a1496953206ec3e4ff1194c23bcb8",
+          "sha256": "7d01cb8b7009690797cb1cdebe987b99ba00a77f3d0cba2a25fbb428c1ba9a74",
+          "sha1": "9cf6c6c4e2d4ee616cc7c3e958b8b26d312d7a88",
+          "md5": "61398ae2d8c71c8904bfad739d78a76c"
+        }
+      ]
+    }
+  ]
+}
