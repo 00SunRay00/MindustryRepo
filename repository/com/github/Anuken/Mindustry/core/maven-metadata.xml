@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Mindustry</groupId>
     <artifactId>core</artifactId>
     <versioning>
-        <latest>v159.2</latest>
-        <release>v159.2</release>
+        <latest>v159.3</latest>
+        <release>v159.3</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -40,6 +40,7 @@
             <version>v159</version>
             <version>v159.1</version>
             <version>v159.2</version>
+            <version>v159.3</version>
         </versions>
         <lastUpdated>20230810015329</lastUpdated>
     </versioning>
