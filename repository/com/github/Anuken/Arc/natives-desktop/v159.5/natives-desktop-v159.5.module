@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives-desktop",
+    "version": "v159.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-desktop-v159.5.jar",
+          "url": "natives-desktop-v159.5.jar",
+          "size": 1724783,
+          "sha512": "0f45ec19b2972c46932d512a14da3d3f29405ffd987e73b5cf873c4dcebe55d56e9c534bbad3af7f2b32d6c494f7ba8557e9f6e32c4f0c5b768144b08b995097",
+          "sha256": "d0a24bb00b5aed0b97ba3608cf011ffee430f045d0596bbb20d946fb8a95c575",
+          "sha1": "70614c52c580b794316236a752cd9ca1aa551fed",
+          "md5": "ae760d4381b34a4e2e366e963ac148f0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-desktop-v159.5.jar",
+          "url": "natives-desktop-v159.5.jar",
+          "size": 1724783,
+          "sha512": "0f45ec19b2972c46932d512a14da3d3f29405ffd987e73b5cf873c4dcebe55d56e9c534bbad3af7f2b32d6c494f7ba8557e9f6e32c4f0c5b768144b08b995097",
+          "sha256": "d0a24bb00b5aed0b97ba3608cf011ffee430f045d0596bbb20d946fb8a95c575",
+          "sha1": "70614c52c580b794316236a752cd9ca1aa551fed",
+          "md5": "ae760d4381b34a4e2e366e963ac148f0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-desktop-v159.5-sources.jar",
+          "url": "natives-desktop-v159.5-sources.jar",
+          "size": 1724783,
+          "sha512": "ed7bdee695dc5bdc4b19cf4eccfd72c1a03210d15be967b04c364b5b6cb4ece0e8598341489906bb6b33c0edc3c14fc63c0665e5f865ffeff575899ed46676e2",
+          "sha256": "51eb7724ba1c64b905f3d87d34c973c8f07379a282cb44d78c77eb44f1aa126e",
+          "sha1": "b60a0bf7cc652ae23a97c0f84ee52c2b04a676cc",
+          "md5": "71799be327641064c940cf4dd8b25127"
+        }
+      ]
+    }
+  ]
+}

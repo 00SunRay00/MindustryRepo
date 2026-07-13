@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "g3d",
+    "version": "v159.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "g3d-v159.5.jar",
+          "url": "g3d-v159.5.jar",
+          "size": 45674,
+          "sha512": "030af011b2a6a7a0dd9cff46d4287b5ecf2a8e25dcb285f226f6bb115699f9e3568ebab4fdb400573787cb6fad3ad6ea3859b1061ed69792a62bf332da902d8a",
+          "sha256": "2364cb052105eaea536d6fa81bcd84e5e08c77fcd7f50fde4eeb7e0a39927b54",
+          "sha1": "8b5f684fd9706b2208c097ec71d0475a6514ef58",
+          "md5": "7912b6dd862971753476e468ece5a4ff"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "g3d-v159.5.jar",
+          "url": "g3d-v159.5.jar",
+          "size": 45674,
+          "sha512": "030af011b2a6a7a0dd9cff46d4287b5ecf2a8e25dcb285f226f6bb115699f9e3568ebab4fdb400573787cb6fad3ad6ea3859b1061ed69792a62bf332da902d8a",
+          "sha256": "2364cb052105eaea536d6fa81bcd84e5e08c77fcd7f50fde4eeb7e0a39927b54",
+          "sha1": "8b5f684fd9706b2208c097ec71d0475a6514ef58",
+          "md5": "7912b6dd862971753476e468ece5a4ff"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "g3d-v159.5-sources.jar",
+          "url": "g3d-v159.5-sources.jar",
+          "size": 35333,
+          "sha512": "70830076026934bd1c3350a097ba851a31e8bdacc4885897b74c91eab0c0983e795cddbe57b902e8b840602e9bd60847cf243dcb473c05f58fb3b6c9d96cb742",
+          "sha256": "e8efe8c3b46a27466de7198104add4ee6fdf892b9d6490cad7276618ee8d1483",
+          "sha1": "d1f4bc29bc54bda8fd7f348c91a137693b693add",
+          "md5": "4c35eb9a36e432ffb5097c02604e1676"
+        }
+      ]
+    }
+  ]
+}
