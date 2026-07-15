@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "packer",
+    "version": "v159.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "packer-v159.6.jar",
+          "url": "packer-v159.6.jar",
+          "size": 52630,
+          "sha512": "b5f4f6e61a0fa228351becb3fde49606bd4f89eae3767c7e2a2f96df8fefcdebba00ce4adf83b10a0f2b4a5955bd516dcc1f4442c9398035c0ff1a0f497a81d6",
+          "sha256": "244a770a704c0832ff1f20e095a90dcd504da165bf0162ba5f8fd3ccb9cabb5b",
+          "sha1": "9898c3e38d537ef0b0a7b46b2efb52e13d94078a",
+          "md5": "5bc90b694f57857eab0df98ef1e9fb85"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "packer-v159.6.jar",
+          "url": "packer-v159.6.jar",
+          "size": 52630,
+          "sha512": "b5f4f6e61a0fa228351becb3fde49606bd4f89eae3767c7e2a2f96df8fefcdebba00ce4adf83b10a0f2b4a5955bd516dcc1f4442c9398035c0ff1a0f497a81d6",
+          "sha256": "244a770a704c0832ff1f20e095a90dcd504da165bf0162ba5f8fd3ccb9cabb5b",
+          "sha1": "9898c3e38d537ef0b0a7b46b2efb52e13d94078a",
+          "md5": "5bc90b694f57857eab0df98ef1e9fb85"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "packer-v159.6-sources.jar",
+          "url": "packer-v159.6-sources.jar",
+          "size": 24170,
+          "sha512": "6dd190a259ecb57702ed2c433d1701d7dfe0918ef5d1b4e03b633425724a2129eee0cb9dbb8b736d5e4c04c8c47a8eb0a8f13fb74f07365ccaa5e2bab378c499",
+          "sha256": "b5aebddd943c312b8909d4aabdd6d4a60fa924a9c90e54c51fabff3d1903df8f",
+          "sha1": "ae81a12e7375bc8ee59f4f7d29e9aba0664b4ade",
+          "md5": "e43b74354acc29bb106467411f42ad1b"
+        }
+      ]
+    }
+  ]
+}
