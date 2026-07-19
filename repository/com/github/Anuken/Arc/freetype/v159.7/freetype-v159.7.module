@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "freetype",
+    "version": "v159.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "freetype-v159.7.jar",
+          "url": "freetype-v159.7.jar",
+          "size": 35563,
+          "sha512": "943fce933801149e8fd1e78281e823872d57b101a7636e77d758d595c76271d844678988fa36200cb7ad8edbdbaaf5b131deecdfc3dab5b8f2e5590356ec6e28",
+          "sha256": "62736b0cb249da089dba6390b719ba86468a8f52eda586fd3acee4be3ad36c9c",
+          "sha1": "9f88cba8e4b2b5d8ad4981eea1ff5106fd4991f4",
+          "md5": "4a57997d4b6858a0d1df648ee8dc100c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "freetype-v159.7.jar",
+          "url": "freetype-v159.7.jar",
+          "size": 35563,
+          "sha512": "943fce933801149e8fd1e78281e823872d57b101a7636e77d758d595c76271d844678988fa36200cb7ad8edbdbaaf5b131deecdfc3dab5b8f2e5590356ec6e28",
+          "sha256": "62736b0cb249da089dba6390b719ba86468a8f52eda586fd3acee4be3ad36c9c",
+          "sha1": "9f88cba8e4b2b5d8ad4981eea1ff5106fd4991f4",
+          "md5": "4a57997d4b6858a0d1df648ee8dc100c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "freetype-v159.7-sources.jar",
+          "url": "freetype-v159.7-sources.jar",
+          "size": 16761,
+          "sha512": "ac7e4ff5a75b7fc3c03232eecd0eab386aec5690c1089a1ac5b8e3ae02eeb131356ac2697b7d7f7d13bc21238677d7e84292848915fdaa88287391f8ef15c148",
+          "sha256": "206998a8d54da7d600201abddf0f1bc589338110cb0d565a97b8f3057098ff4e",
+          "sha1": "6fc89a1e8581178e613bfaaf715d4fd777c74b34",
+          "md5": "b0c864c64fce8b1aeb74be78c1efdfb9"
+        }
+      ]
+    }
+  ]
+}
