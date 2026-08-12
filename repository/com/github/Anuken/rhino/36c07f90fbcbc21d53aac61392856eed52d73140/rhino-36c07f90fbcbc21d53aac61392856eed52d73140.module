@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken",
+    "module": "rhino",
+    "version": "36c07f90fbcbc21d53aac61392856eed52d73140",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rhino-36c07f90fbcbc21d53aac61392856eed52d73140.jar",
+          "url": "rhino-36c07f90fbcbc21d53aac61392856eed52d73140.jar",
+          "size": 939608,
+          "sha512": "c903433f6b4e6bc6388318aeab5ac37482b1cfe26d218bb3da2f11ed45c7ea00ea5cbc71de03c90eb25ef3863b8199a3daf325eca3c1c1b2d97eed0bc3b66c74",
+          "sha256": "71ba7a8bfc376b75c45abb1d893b085fdcf346876d23197859f9fcb7a91c87d7",
+          "sha1": "38fa276297d909f3404f9c97740c0c96718b825a",
+          "md5": "0233b2b660ff2607c81abd91b3f6b76c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rhino-36c07f90fbcbc21d53aac61392856eed52d73140.jar",
+          "url": "rhino-36c07f90fbcbc21d53aac61392856eed52d73140.jar",
+          "size": 939608,
+          "sha512": "c903433f6b4e6bc6388318aeab5ac37482b1cfe26d218bb3da2f11ed45c7ea00ea5cbc71de03c90eb25ef3863b8199a3daf325eca3c1c1b2d97eed0bc3b66c74",
+          "sha256": "71ba7a8bfc376b75c45abb1d893b085fdcf346876d23197859f9fcb7a91c87d7",
+          "sha1": "38fa276297d909f3404f9c97740c0c96718b825a",
+          "md5": "0233b2b660ff2607c81abd91b3f6b76c"
+        }
+      ]
+    }
+  ]
+}
