@@ -3,13 +3,14 @@
     <groupId>com.github.Anuken</groupId>
     <artifactId>rhino</artifactId>
     <versioning>
-        <latest>36c07f90fbcbc21d53aac61392856eed52d73140</latest>
-        <release>36c07f90fbcbc21d53aac61392856eed52d73140</release>
+        <latest>32395f942976a6d1d21ec9877664554cd5762306</latest>
+        <release>32395f942976a6d1d21ec9877664554cd5762306</release>
         <versions>
             <version>73a812444ac388ac2d94013b5cadc8f70b7ea027</version>
             <version>54b75cbd1207ef1fd5cff517cbd188e763c85baa</version>
             <version>e74ac129d2bff72c1deb536d7d99a0dbb7046d2e</version>
             <version>36c07f90fbcbc21d53aac61392856eed52d73140</version>
+            <version>32395f942976a6d1d21ec9877664554cd5762306</version>
         </versions>
         <lastUpdated>20240616154421</lastUpdated>
     </versioning>
