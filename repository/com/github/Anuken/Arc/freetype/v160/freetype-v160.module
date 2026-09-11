@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "freetype",
+    "version": "v160",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "freetype-v160.jar",
+          "url": "freetype-v160.jar",
+          "size": 35563,
+          "sha512": "86db1342fd8cb0dd895e6a2e13224db594b1e14afab6d4f17780abffb8e8bf8a0fed530f8a7ec96ffb3ce5b2da7d6f94aeef934257c6477e1d5578f48ad01869",
+          "sha256": "f87e4a2fc1e8e9c0f8cb0de081aa705520b0c7c128cc1cd402f0003d1695dc25",
+          "sha1": "27c65c05319c57f513a52d313cf08b56372eedb6",
+          "md5": "546eb103de4672f18a660cc2d4e5653c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "freetype-v160.jar",
+          "url": "freetype-v160.jar",
+          "size": 35563,
+          "sha512": "86db1342fd8cb0dd895e6a2e13224db594b1e14afab6d4f17780abffb8e8bf8a0fed530f8a7ec96ffb3ce5b2da7d6f94aeef934257c6477e1d5578f48ad01869",
+          "sha256": "f87e4a2fc1e8e9c0f8cb0de081aa705520b0c7c128cc1cd402f0003d1695dc25",
+          "sha1": "27c65c05319c57f513a52d313cf08b56372eedb6",
+          "md5": "546eb103de4672f18a660cc2d4e5653c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "freetype-v160-sources.jar",
+          "url": "freetype-v160-sources.jar",
+          "size": 16761,
+          "sha512": "14cd666b4a5748003344a7bb78da571e9866e9dd08edc8a738d17b20d7ac838fd2743c7e9e1cd2415c5ae9df32878cb838f80e9fa8a2c93eec5fbd5653f441cb",
+          "sha256": "df2113ac978abc2d44ae2ebdca99b5259bb88f4025b39e5db0bd74f326640784",
+          "sha1": "df94f2e6b699e83ea24b3ff74dadaca8df4f589c",
+          "md5": "f9a66f20d1053c17572b727387c6cbd8"
+        }
+      ]
+    }
+  ]
+}

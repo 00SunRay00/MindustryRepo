@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives-android",
+    "version": "v160",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-android-v160.jar",
+          "url": "natives-android-v160.jar",
+          "size": 1292212,
+          "sha512": "d08f9d3e834df8cc842562007b04880bc5781d601d877f9192d48613a3d2b7b67ba1f75f47ab8a84e48b7064706f4828cae175ad2239fcb3240be9f30730d1f3",
+          "sha256": "5f0afa1a0de1b6e4b91a4891e5ac6e2a639b34bdb798370d72ff6da5bb7873a5",
+          "sha1": "7a83fe7cc5975402cd4c35f0d6bcbe91bdd43f01",
+          "md5": "d1e832a221d812cc856fb22248b8edeb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-android-v160.jar",
+          "url": "natives-android-v160.jar",
+          "size": 1292212,
+          "sha512": "d08f9d3e834df8cc842562007b04880bc5781d601d877f9192d48613a3d2b7b67ba1f75f47ab8a84e48b7064706f4828cae175ad2239fcb3240be9f30730d1f3",
+          "sha256": "5f0afa1a0de1b6e4b91a4891e5ac6e2a639b34bdb798370d72ff6da5bb7873a5",
+          "sha1": "7a83fe7cc5975402cd4c35f0d6bcbe91bdd43f01",
+          "md5": "d1e832a221d812cc856fb22248b8edeb"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-android-v160-sources.jar",
+          "url": "natives-android-v160-sources.jar",
+          "size": 1292212,
+          "sha512": "9164e5faa8f3177ef0636de24bcd2216334a243f92e6d184ec7e8c56a0501f76100621e41cc65afa1554d896295ad809424958baefa116ef6b45f8b4096d70e6",
+          "sha256": "5347b7d733088f5ac7ea43d6def17c4d078a0eed23133e2adfb4362ba217fd2a",
+          "sha1": "a43cb880eb3bf5ecba4f96b71ac8d4b3ad134fe1",
+          "md5": "04b08ee66f72b41c12987a027f54dcbc"
+        }
+      ]
+    }
+  ]
+}
