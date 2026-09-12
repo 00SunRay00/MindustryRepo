@@ -1,0 +1,200 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Mindustry",
+    "module": "core",
+    "version": "v160.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "at.yawk.lz4",
+          "module": "lz4-java",
+          "version": {
+            "requires": "1.10.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "flabel",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "freetype",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "g3d",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "fx",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arcnet",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken",
+          "module": "rhino",
+          "version": {
+            "requires": "32395f942976a6d1d21ec9877664554cd5762306"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-v160.2.jar",
+          "url": "core-v160.2.jar",
+          "size": 6087898,
+          "sha512": "67d99fe712472962a027e2669beb47c417be63330d9abee504fe4c33a103ff4a0ee1789bdf2f83bb7b67a48b8b9839f1ed6c4236d1a0ea80242000054244d11d",
+          "sha256": "3aeeb12f57cb63567bba7057a527001e69dd5c99bc7c008deb1f64f359cda6bb",
+          "sha1": "658f2494364b541d165d6a286e67f0b8e977410d",
+          "md5": "fa944a813cc91204bec3c2d85c004c18"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "at.yawk.lz4",
+          "module": "lz4-java",
+          "version": {
+            "requires": "1.10.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "flabel",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "freetype",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "g3d",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "fx",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arcnet",
+          "version": {
+            "requires": "v160.2"
+          }
+        },
+        {
+          "group": "com.github.Anuken",
+          "module": "rhino",
+          "version": {
+            "requires": "32395f942976a6d1d21ec9877664554cd5762306"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-v160.2.jar",
+          "url": "core-v160.2.jar",
+          "size": 6087898,
+          "sha512": "67d99fe712472962a027e2669beb47c417be63330d9abee504fe4c33a103ff4a0ee1789bdf2f83bb7b67a48b8b9839f1ed6c4236d1a0ea80242000054244d11d",
+          "sha256": "3aeeb12f57cb63567bba7057a527001e69dd5c99bc7c008deb1f64f359cda6bb",
+          "sha1": "658f2494364b541d165d6a286e67f0b8e977410d",
+          "md5": "fa944a813cc91204bec3c2d85c004c18"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-v160.2-sources.jar",
+          "url": "core-v160.2-sources.jar",
+          "size": 1644753,
+          "sha512": "c520cf5900cd6e2d177be6cf91aeda37622b29a79722917515a8bd6cb32110c490b659fbaf02612e0fa065341b3438da4a1f05d684d74e7a92ba6fec3da6b9c8",
+          "sha256": "efec19964d56c05143c6d578c85afd57e02f99fdab0c469213d5495cdf2c9c61",
+          "sha1": "59702aa8444603d6b1cc734ea0d3f07e0f264bff",
+          "md5": "bdd4dd14fc8899b03d3630b294d556bf"
+        }
+      ]
+    }
+  ]
+}
