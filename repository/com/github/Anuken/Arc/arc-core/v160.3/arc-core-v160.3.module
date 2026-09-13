@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "arc-core",
+    "version": "v160.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "arc-core-v160.3.jar",
+          "url": "arc-core-v160.3.jar",
+          "size": 1249907,
+          "sha512": "bd5c2c7b1bd4a95700186c326bfc673c9b143dbd6b00f3100e33fea549b9da35336c4e194e724d7fa096f6aa1d243b0bd4ffe1c1f0411ade98838b7414fa007b",
+          "sha256": "cb4b43b2be75d29ffd6f25ff3afab3a4b90302edf8d495e2b7228749b9069b58",
+          "sha1": "bac00a85d5b4d081f6ec8179640f2e9bb310b084",
+          "md5": "b19ec29bfe5229af14c5203fc5052b9b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "arc-core-v160.3.jar",
+          "url": "arc-core-v160.3.jar",
+          "size": 1249907,
+          "sha512": "bd5c2c7b1bd4a95700186c326bfc673c9b143dbd6b00f3100e33fea549b9da35336c4e194e724d7fa096f6aa1d243b0bd4ffe1c1f0411ade98838b7414fa007b",
+          "sha256": "cb4b43b2be75d29ffd6f25ff3afab3a4b90302edf8d495e2b7228749b9069b58",
+          "sha1": "bac00a85d5b4d081f6ec8179640f2e9bb310b084",
+          "md5": "b19ec29bfe5229af14c5203fc5052b9b"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "arc-core-v160.3-sources.jar",
+          "url": "arc-core-v160.3-sources.jar",
+          "size": 710437,
+          "sha512": "68dd04beaf56c3bcac51f22418ce04175ae46768fa1770ef4633c10d82638d19bf092cbfa9725e2dfaa22744dde68f2221262d254f3af2b288a2abc1c8912758",
+          "sha256": "5f17cf0d899b10f9e67cb0aa2eaf9d313710b80f4c82720e3d2a6a392a8020b9",
+          "sha1": "6bb6b3e47a2de221c401b52749400749dec65cdc",
+          "md5": "66aeec3933018260b3168fbc04be78c4"
+        }
+      ]
+    }
+  ]
+}

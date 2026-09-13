@@ -3,8 +3,8 @@
     <groupId>com.github.Anuken.Arc</groupId>
     <artifactId>natives</artifactId>
     <versioning>
-        <latest>v160.2</latest>
-        <release>v160.2</release>
+        <latest>v160.3</latest>
+        <release>v160.3</release>
         <versions>
             <version>v145</version>
             <version>v145.1</version>
@@ -47,6 +47,7 @@
             <version>v160</version>
             <version>v160.1</version>
             <version>v160.2</version>
+            <version>v160.3</version>
         </versions>
         <lastUpdated>20230810012825</lastUpdated>
     </versioning>
