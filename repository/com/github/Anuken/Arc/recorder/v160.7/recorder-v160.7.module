@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "recorder",
+    "version": "v160.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "recorder-v160.7.jar",
+          "url": "recorder-v160.7.jar",
+          "size": 5720,
+          "sha512": "692348a7ac3e69cd8dbcebb55ad12c5a810da8e7932ce7b56fbc34ac521be92658506c23216d77096bdeee0468f684dfab7c52386ae13cdbfafc1e2ea3b93b6d",
+          "sha256": "42ce2558ddc15e478aaa4275fdda58a03587eba08d0da9bc9b4d42eca0332c68",
+          "sha1": "9f39cac997e03598b971b0c9d908f82320713b5c",
+          "md5": "87d37d718f5d224e8372c9a887313ae2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "recorder-v160.7.jar",
+          "url": "recorder-v160.7.jar",
+          "size": 5720,
+          "sha512": "692348a7ac3e69cd8dbcebb55ad12c5a810da8e7932ce7b56fbc34ac521be92658506c23216d77096bdeee0468f684dfab7c52386ae13cdbfafc1e2ea3b93b6d",
+          "sha256": "42ce2558ddc15e478aaa4275fdda58a03587eba08d0da9bc9b4d42eca0332c68",
+          "sha1": "9f39cac997e03598b971b0c9d908f82320713b5c",
+          "md5": "87d37d718f5d224e8372c9a887313ae2"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "recorder-v160.7-sources.jar",
+          "url": "recorder-v160.7-sources.jar",
+          "size": 2907,
+          "sha512": "4bf722427f62e838c5391d31c127fc831333866d507b85a02e61f5dd170d8ce57e3c81270b3658ec6408ba3150c98d7b20b9e1fe5e503345a1a1e959ef723520",
+          "sha256": "22236a9c0f6077d655e7bcd8df0def9a37d9d0cc2dfdc15be2231fb6cc9b422e",
+          "sha1": "a3c6d39ef5d84580d4c876be69290c6c8ef40388",
+          "md5": "cc2ca14bbf380ffdd7e661aa95217f8f"
+        }
+      ]
+    }
+  ]
+}

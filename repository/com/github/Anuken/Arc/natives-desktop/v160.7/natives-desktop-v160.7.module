@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "natives-desktop",
+    "version": "v160.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "natives-desktop-v160.7.jar",
+          "url": "natives-desktop-v160.7.jar",
+          "size": 1628923,
+          "sha512": "9f8f3e3406be6a454783a39b638fcb32374c69edcf28e974cef756d4dc100198be47dfd491cf313ba316528c3777d9af87c1853cd93399f483b267cc3127b5fb",
+          "sha256": "ef21a361619a8a718d5974612d592899c51e103bd21685277ca9bfc4023f2043",
+          "sha1": "c3ef5292ff65ca5d84d237c29966be582f6e4166",
+          "md5": "d337e3d178c65dce0ab0b2468e40518d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-desktop-v160.7.jar",
+          "url": "natives-desktop-v160.7.jar",
+          "size": 1628923,
+          "sha512": "9f8f3e3406be6a454783a39b638fcb32374c69edcf28e974cef756d4dc100198be47dfd491cf313ba316528c3777d9af87c1853cd93399f483b267cc3127b5fb",
+          "sha256": "ef21a361619a8a718d5974612d592899c51e103bd21685277ca9bfc4023f2043",
+          "sha1": "c3ef5292ff65ca5d84d237c29966be582f6e4166",
+          "md5": "d337e3d178c65dce0ab0b2468e40518d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "natives-desktop-v160.7-sources.jar",
+          "url": "natives-desktop-v160.7-sources.jar",
+          "size": 1628923,
+          "sha512": "3e273c7539b46fa39659340f9af127089cf969d789c39294cabe0746ffa94ebea1a03a75eece11239bd4a1378a854e3e1f096c24b5c9360231da8ede9553b2da",
+          "sha256": "d19fe60bada47815e15fcdafdad555ffecf07d9a29e9bbcf4ac5ac34206089ca",
+          "sha1": "8954b94f4d81e667cd2ffa37401c52488aa1f336",
+          "md5": "802e15d46446dfec5a270beafcf78933"
+        }
+      ]
+    }
+  ]
+}
