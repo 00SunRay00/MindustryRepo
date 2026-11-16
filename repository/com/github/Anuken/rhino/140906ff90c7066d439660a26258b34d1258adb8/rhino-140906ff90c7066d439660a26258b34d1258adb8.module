@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken",
+    "module": "rhino",
+    "version": "140906ff90c7066d439660a26258b34d1258adb8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rhino-140906ff90c7066d439660a26258b34d1258adb8.jar",
+          "url": "rhino-140906ff90c7066d439660a26258b34d1258adb8.jar",
+          "size": 1820954,
+          "sha512": "37a19a0d1806449b6e1f880584ff80f5aff10e2319e3414a999c9345a65280cce673ba0cfbf42f2981bb36704c7b56ecc590225997634fe8b3bd4d618e3d442e",
+          "sha256": "1f4e78564f8b39b3bd589c11b66b280eb4425921f69404459844e51032f6f491",
+          "sha1": "309e7a60b5fd2a096590304b1f2bb5ca7ecba55a",
+          "md5": "c9d89b9438952fdf5feb02656237c363"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rhino-140906ff90c7066d439660a26258b34d1258adb8.jar",
+          "url": "rhino-140906ff90c7066d439660a26258b34d1258adb8.jar",
+          "size": 1820954,
+          "sha512": "37a19a0d1806449b6e1f880584ff80f5aff10e2319e3414a999c9345a65280cce673ba0cfbf42f2981bb36704c7b56ecc590225997634fe8b3bd4d618e3d442e",
+          "sha256": "1f4e78564f8b39b3bd589c11b66b280eb4425921f69404459844e51032f6f491",
+          "sha1": "309e7a60b5fd2a096590304b1f2bb5ca7ecba55a",
+          "md5": "c9d89b9438952fdf5feb02656237c363"
+        }
+      ]
+    }
+  ]
+}
