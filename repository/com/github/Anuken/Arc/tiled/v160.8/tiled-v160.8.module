@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "tiled",
+    "version": "v160.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tiled-v160.8.jar",
+          "url": "tiled-v160.8.jar",
+          "size": 42985,
+          "sha512": "f818e995f3ce699b85a8bb45d1ba1a63b35ac5dce9888e68613d4794813a7738aeae40087021d025103fcb5c2abb4b0bb71dfa038d385a4fad0378377e72e5e9",
+          "sha256": "55fde6955f5d63b2bb631d34d875a5d20106492031b820864dd23a2841f08164",
+          "sha1": "87ff693f0a3074983529576a0b98771b259ce3ff",
+          "md5": "f013da1f700b1267969a5f5011edc666"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiled-v160.8.jar",
+          "url": "tiled-v160.8.jar",
+          "size": 42985,
+          "sha512": "f818e995f3ce699b85a8bb45d1ba1a63b35ac5dce9888e68613d4794813a7738aeae40087021d025103fcb5c2abb4b0bb71dfa038d385a4fad0378377e72e5e9",
+          "sha256": "55fde6955f5d63b2bb631d34d875a5d20106492031b820864dd23a2841f08164",
+          "sha1": "87ff693f0a3074983529576a0b98771b259ce3ff",
+          "md5": "f013da1f700b1267969a5f5011edc666"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiled-v160.8-sources.jar",
+          "url": "tiled-v160.8-sources.jar",
+          "size": 23367,
+          "sha512": "a01330aa4ccdbd89dfdf9e4531e607a5abab855c575a86d495b5279fc5f43a2a993b02b86df0e54a646308fd20bfb4bfc8e4719aa553a56e848eb433ab446766",
+          "sha256": "60fc46746db977e989f57fe6102b729bc7e868ee91385d5e0532a56b67a04596",
+          "sha1": "56867b6fb493f61d38586173396b9a4c9b095826",
+          "md5": "5c7702c58ef0b27482e5378ea2c4f78d"
+        }
+      ]
+    }
+  ]
+}

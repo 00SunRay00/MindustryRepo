@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "backend-android",
+    "version": "v160.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "backend-android-v160.8.jar",
+          "url": "backend-android-v160.8.jar",
+          "size": 69343,
+          "sha512": "cb964b807e491d13a21bd31d406fbc2f4298f560ec863ec413e52a72813d3b60b9e768e4a604b044ea4b3382981b8aeb1241ee5e46f4ecce98ecdb3c8560eb0a",
+          "sha256": "37ef19d8bf130d47e460f2cb0498482a24757b283b2158aa5233b6e4bed814e8",
+          "sha1": "4bf325bfacc32b7b54efe5bae8546ed1be6e0101",
+          "md5": "20f37be68f431f3be0c141573ff4adae"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-android-v160.8.jar",
+          "url": "backend-android-v160.8.jar",
+          "size": 69343,
+          "sha512": "cb964b807e491d13a21bd31d406fbc2f4298f560ec863ec413e52a72813d3b60b9e768e4a604b044ea4b3382981b8aeb1241ee5e46f4ecce98ecdb3c8560eb0a",
+          "sha256": "37ef19d8bf130d47e460f2cb0498482a24757b283b2158aa5233b6e4bed814e8",
+          "sha1": "4bf325bfacc32b7b54efe5bae8546ed1be6e0101",
+          "md5": "20f37be68f431f3be0c141573ff4adae"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-android-v160.8-sources.jar",
+          "url": "backend-android-v160.8-sources.jar",
+          "size": 36439,
+          "sha512": "6cc36eba50fd2d56841493f81162da5117457fc01b6dadd1a04e5c45d186bcd5e08c7762f5590656967d7baad4f5ef78d3d04b8d756ecd8a3458e77344e2bd7c",
+          "sha256": "d997338cc1badf5cb5409b2ce7104a0776b939ac1499cff33ef7e142a3cf3301",
+          "sha1": "ca9a254ead314f2f3045fb73fb65199e9f34a435",
+          "md5": "7fab92969e5c42e97980d57eb2f193d7"
+        }
+      ]
+    }
+  ]
+}

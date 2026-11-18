@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Anuken.Arc",
+    "module": "discord",
+    "version": "v160.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "discord-v160.8.jar",
+          "url": "discord-v160.8.jar",
+          "size": 15252,
+          "sha512": "f3c80d99b3c9d0765aa65922981c2ed77e7b38441057a492ec3bb32adfce1d42a10a389d36eb2e0a851485119f960708df3d038a7e2060670aeae6d836ccf989",
+          "sha256": "c807ef502c725f02cb5ca24dcdc3aca089c3645b2bd996ede384927f681e8c73",
+          "sha1": "e12f10ad31ab29abeae3a4bad8fceaa8700a37c2",
+          "md5": "c411f82f3bd9480b169d0fbb3eedcdb6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "discord-v160.8.jar",
+          "url": "discord-v160.8.jar",
+          "size": 15252,
+          "sha512": "f3c80d99b3c9d0765aa65922981c2ed77e7b38441057a492ec3bb32adfce1d42a10a389d36eb2e0a851485119f960708df3d038a7e2060670aeae6d836ccf989",
+          "sha256": "c807ef502c725f02cb5ca24dcdc3aca089c3645b2bd996ede384927f681e8c73",
+          "sha1": "e12f10ad31ab29abeae3a4bad8fceaa8700a37c2",
+          "md5": "c411f82f3bd9480b169d0fbb3eedcdb6"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "discord-v160.8-sources.jar",
+          "url": "discord-v160.8-sources.jar",
+          "size": 4415,
+          "sha512": "a356144adcdf8caf82f91eaa16f5cb27931114c31be2b726c8b6ebd287e8c25e7f96befbc5558079fc86ff717b79230c420d97d06341ae8565c17158aa976627",
+          "sha256": "d571e1957fc9dd2133ef3787914c1805ef5ab73c70f8c09212735d8fe0d77ce7",
+          "sha1": "4644020467fedbea7e590e0e4fb4eae3d7b0504b",
+          "md5": "84d445ca20da65544f686380e1c6e5b3"
+        }
+      ]
+    }
+  ]
+}
